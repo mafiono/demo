@@ -1,0 +1,16 @@
+# Robots @ SpringBuilder
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/orig.html
+
+
+User-agent: *
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
+
+Disallow: /frontend/
+
+Host: https://betboard.springbuilder.live
+Sitemap: https://betboard.springbuilder.live/sitemap.xml
